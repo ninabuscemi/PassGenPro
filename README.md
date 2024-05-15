@@ -1,4 +1,4 @@
-JavaScript: Password Generator
+## JavaScript: Password Generator
 
 ## Description
 This is a web application that enables employees to generate random passwords based on criteria that they’ve selected. The application runs in the browser and features a clean and polished user interface that adapts to multiple screen sizes. It allows users to select the length of the password and choose which character types to include, such as lowercase letters, uppercase letters, numbers, and special characters. The generated password provides greater security for employees with access to sensitive data.
